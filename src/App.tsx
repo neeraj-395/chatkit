@@ -10,7 +10,7 @@ import Profile from "./routes/Profile";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/chatkit">
       <Routes>
         {/* Auth layout */}
         <Route element={<MainLayout />}>
