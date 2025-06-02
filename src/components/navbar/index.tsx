@@ -45,7 +45,7 @@ const Navbar = () => {
                             justifyContent: 'center',
                         }}
                     >
-                        <img src='./vite.svg' alt='logo' height={40} />
+                        <img src='./logo.png' alt='logo' height={40} />
                     </Box>
 
                     <Stack direction='column' alignItems='center' spacing={3}>

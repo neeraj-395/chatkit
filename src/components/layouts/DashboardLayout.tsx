@@ -1,5 +1,6 @@
 import { Outlet, useLocation } from "react-router-dom";
 import { Stack, Box } from '@mui/material';
+
 import Navbar from "../navbar";
 import Sidebar from "../sidebar";
 import Conversation from "../conversation";
